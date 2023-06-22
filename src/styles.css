@@ -1,0 +1,15 @@
+body{
+    background-image: url(https://1.bp.blogspot.com/-XdN0Kf19nJ8/WIpVQvbedZI/AAAAAAAAEcI/aZhbIUyKXcoQoRvDgmi3FM5_PQLDk-p4wCLcB/s1600/La%2Bmarca%2Bdel%2Bproducto%2BDefinici%25C3%25B3n%252C%2Bclasificaci%25C3%25B3n%252C%2Bc%25C3%25B3mo%2Bnacen%2By%2Bm%25C3%25A1s.jpg);
+    background-repeat: repeat;
+    background-attachment:fixed;
+}
+
+.titulo{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.8rem;
+}
+
+.fa-solid{
+    cursor:pointer;
+    margin-left: 10px;
+}
